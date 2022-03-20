@@ -4,3 +4,5 @@ download the data from [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com
 
 
 test123
+
+test456 from zhushan's mac
